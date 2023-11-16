@@ -189,7 +189,6 @@ const SudokuGrid = () => {
             selectedCell.row === rowIndex &&
             selectedCell.col === colIndex
 
-          console.log('isEditable-->', isEditable)
           return (
             <GridBlock
               key={colIndex}
