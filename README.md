@@ -63,6 +63,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 
+
+### Localhost Screenshots with respect to the functional flow 
+
+<img width="1423" alt="image" src="https://github.com/SakshiGrg/suduko-game-app/assets/52864853/367102ee-5cc1-4ff7-be06-40710d2fb24d">
+<img width="363" alt="image" src="https://github.com/SakshiGrg/suduko-game-app/assets/52864853/b4f230e0-6bfd-4e7a-af64-ef02017becb3">
+<img width="1406" alt="image" src="https://github.com/SakshiGrg/suduko-game-app/assets/52864853/13cf693d-99cf-493c-907c-5d9b123f95f5">
+<img width="812" alt="image" src="https://github.com/SakshiGrg/suduko-game-app/assets/52864853/329c193a-dcd4-4ce6-b86e-7931b101e746">
+<img width="365" alt="image" src="https://github.com/SakshiGrg/suduko-game-app/assets/52864853/d8b97ed1-3bbf-404c-a5bf-82c815f488f2">
+
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.
