@@ -8,10 +8,10 @@ This is a React-based implementation of the classic Sudoku puzzle game, featurin
 
 ## Key Components 
 
-* SudokuGrid: Main component containing the Sudoku game logic and UI.
-* Styled Components: Located in src/components/styles/, these components provide custom styles for various UI elements like buttons, cards, and messages.
-* Global Styles: Defined in src/styles/global.js for application-wide styling.
-* Theme: Contains color and transition definitions in src/styles/theme.js.
+* `SudokuGrid`: Main component containing the Sudoku game logic and UI.
+* `Styled Components`: Located in src/components/styles/, these components provide custom styles for various UI elements like buttons, cards, and messages.
+* `Global Styles`: Defined in src/styles/global.js for application-wide styling.
+* `Theme`: Contains color and transition definitions in src/styles/theme.js.
 
 ## Logical Flow
 
