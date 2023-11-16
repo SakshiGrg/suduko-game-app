@@ -6,41 +6,6 @@ This project is a React-based implementation of the classic Sudoku puzzle game. 
 
 This is a React-based implementation of the classic Sudoku puzzle game, featuring a user-friendly interface for playing, validating solutions, and starting new games.
 
-## Project Structure
-
-The project follows the create-react-app structure and is organized into several key directories and files:
-
-src/
-├── components/
-│   ├── styles/
-│   │   ├── buttons/
-│   │   │   └── index.js
-│   │   ├── card/
-│   │   │   └── index.js
-│   │   ├── content/
-│   │   │   └── index.js
-│   │   ├── errorMessage/
-│   │   │   └── index.js
-│   │   ├── successMessage/
-│   │   │   └── index.js
-│   │   ├── sudokuGrid/
-│   │   │   └── index.js
-│   │   ├── title/
-│   │   │   └── index.js
-│   │   └── index.js
-│   ├── sudokuGrid/
-│   │   ├── index.js
-│   │   └── index.test.js
-│   └── index.js
-├── styles/
-│   ├── global.js
-│   ├── index.js
-│   └── theme.js
-├── .prettierrc
-├── index.js
-└── reportWebVitals.js
-
-
 ## Key Components 
 
 * SudokuGrid: Main component containing the Sudoku game logic and UI.
