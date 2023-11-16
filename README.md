@@ -15,7 +15,8 @@ This is a React-based implementation of the classic Sudoku puzzle game, featurin
 
 ## Logical Flow
 
-![Alt text](<Pasted Graphic.png>)
+<img width="462" alt="Pasted Graphic" src="https://github.com/SakshiGrg/suduko-game-app/assets/52864853/4006c9ca-ccc1-45c7-a0f5-02dece219ee5">
+
 
 The application follows a straightforward logical flow:
 
